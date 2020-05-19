@@ -1,0 +1,7 @@
+C:\Users\BENSEFIA Yahya\source\repos\FileMergeCSharp\FileMergeCSharp\bin\Debug\FileMergeCSharp.exe.config
+C:\Users\BENSEFIA Yahya\source\repos\FileMergeCSharp\FileMergeCSharp\bin\Debug\FileMergeCSharp.exe
+C:\Users\BENSEFIA Yahya\source\repos\FileMergeCSharp\FileMergeCSharp\bin\Debug\FileMergeCSharp.pdb
+C:\Users\BENSEFIA Yahya\source\repos\FileMergeCSharp\FileMergeCSharp\obj\Debug\FileMergeCSharp.csprojAssemblyReference.cache
+C:\Users\BENSEFIA Yahya\source\repos\FileMergeCSharp\FileMergeCSharp\obj\Debug\FileMergeCSharp.csproj.CoreCompileInputs.cache
+C:\Users\BENSEFIA Yahya\source\repos\FileMergeCSharp\FileMergeCSharp\obj\Debug\FileMergeCSharp.exe
+C:\Users\BENSEFIA Yahya\source\repos\FileMergeCSharp\FileMergeCSharp\obj\Debug\FileMergeCSharp.pdb
